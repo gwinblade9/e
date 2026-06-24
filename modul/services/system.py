@@ -1,6 +1,3 @@
-"""
-Фасад системы - единая точка доступа ко всем функциям
-"""
 
 from typing import Optional, Dict, Any, List
 
