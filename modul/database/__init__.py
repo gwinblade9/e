@@ -1,6 +1,3 @@
-"""
-Работа с базой данных
-"""
 
 from database.db import Database
 
